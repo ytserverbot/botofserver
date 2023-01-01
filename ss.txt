@@ -1,0 +1,3 @@
+ip = OTsmph2x2.aternos.me 
+port = 13557
+name = botofserver
